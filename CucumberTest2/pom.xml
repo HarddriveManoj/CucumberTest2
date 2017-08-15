@@ -41,4 +41,13 @@
   		<scope>test</scope>
   	</dependency>
   </dependencies>
+  <name>CucumberTest</name>
+  <description>This project is sample run for verifying BBC Login functionality</description>
+  <organization>
+  	<name>BBC</name>
+  	<url>http://www.bbc.coo.uk</url>
+  </organization>
+  <scm>
+  	<developerConnection>Manoj Kolhe</developerConnection>
+  </scm>
 </project>
