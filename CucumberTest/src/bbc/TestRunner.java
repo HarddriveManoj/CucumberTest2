@@ -23,7 +23,7 @@ import cucumber.api.junit.Cucumber;
  * 
  * glue option connects step definition file with runner as Cucumber test
  */
-@CucumberOptions(features = "Feature", glue = { "stepDefinition" }, plugin = { "pretty", "html:d:/java" })
+@CucumberOptions(features = "Feature", glue = { "stepDefinition" })
 
 public class TestRunner {
 
